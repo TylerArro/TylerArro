@@ -2,6 +2,7 @@
 
 
 ### Hi there 👋
+#Tyler Arro, University of Pretoria Computer Science student.
 
 You can find me on [![LinkedIn][1.2]][1].
 
